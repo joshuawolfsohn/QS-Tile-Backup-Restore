@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Add Mobile Data QS tile"
+        android:id="@+id/action_mobiledata">
+    </item>
+
+    <item
+        android:title="Add Hotspot QS tile"
+        android:id="@+id/action_hotspot">
+    </item>
+
+    <item
+        android:title="Add VoLTE QS tile"
+        android:id="@+id/action_volte">
+    </item>
+
+    <item
+        android:title="Add Data Saver QS tile"
+        android:id="@+id/action_datasaver">
+    </item>
+
+    <item
+        android:title="Add Private DNS QS tile"
+        android:id="@+id/action_privatedns">
+    </item>
+
+</menu>
